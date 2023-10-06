@@ -1,3 +1,9 @@
+개인공부용 작업입니다. 
+리액트 네이티브로 제작되었습니다.
+다이어리로서 기록, 삭제, 수정, 검색 등의 기능을 할 수 있습니다.
+
+'리액트 네이티브를 다루는 기술'을 참고하였습니다.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
