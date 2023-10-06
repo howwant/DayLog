@@ -1,4 +1,7 @@
 {
   "name": "DayLog",
-  "displayName": "DayLog"
+  "displayName": "DayLog",
+  "expo": {
+    "userInterfaceStyle": "automatic"
+  }
 }
