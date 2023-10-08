@@ -6,6 +6,16 @@
 
 '리액트 네이티브를 다루는 기술'을 참고하였습니다.
 
+<img width="33%" alt="스크린샷 2023-10-08 오전 11 56 58" src="https://github.com/howwant/DayLog/assets/111282684/af91cb7a-7ccf-4b1f-936d-7b378d8b905a">
+<img width="33%" alt="스크린샷 2023-10-08 오전 11 58 11" src="https://github.com/howwant/DayLog/assets/111282684/a72ab800-10c2-4b77-a9fa-b98f9e963e09">
+<img width="33%" alt="스크린샷 2023-10-08 오전 11 57 23" src="https://github.com/howwant/DayLog/assets/111282684/466d3563-19bf-41b3-b89c-c028984d6829">
+
+순서대로 피드, 캘린더, 검색 화면 입니다.
+
+<img width="33%" alt="스크린샷 2023-10-08 오전 11 56 18" src="https://github.com/howwant/DayLog/assets/111282684/0622ea71-f464-40d6-8af6-c5e12373193d">
+
+피드 작성시의 화면입니다.
+
 ------------------
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
